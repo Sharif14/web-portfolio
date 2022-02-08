@@ -14,6 +14,10 @@ h1 {
     color: orange;
 }
 .half-width{
-width: 40%;
-float: left;
+    width: 40%;
+    float: left;
+
+}
+.half-width{
+    width: 100%;
 }
